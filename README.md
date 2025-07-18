@@ -1,4 +1,4 @@
-# 🧮 Calculadora Simples em Java
+#  Calculadora Simples em Java
 
 Uma calculadora feita em Java que roda no terminal e realiza as quatro operações básicas.
 
@@ -9,7 +9,7 @@ Uma calculadora feita em Java que roda no terminal e realiza as quatro operaçõ
 3. Digite o segundo número
 4. O resultado será exibido
 
-## 💡 Funcionalidades
+##  Funcionalidades codificadas 
 
 - Adição
 - Subtração
