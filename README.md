@@ -1,17 +1,21 @@
-#  Calculadora Simples em Java
+## Simple Calculator in Java
 
-Uma calculadora feita em Java que roda no terminal e realiza as quatro operações básicas.
+A calculator made in Java that runs in the terminal and performs the four basic operations.
 
-##  Como usar
+How to Use
+Enter the first number
 
-1. Digite o primeiro número
-2. Escolha o operador: `+`, `-`, `*` ou `/`
-3. Digite o segundo número
-4. O resultado será exibido
+Choose the operator: +, -, *, or /
 
-##  Funcionalidades codificadas 
+Enter the second number
 
-- Adição
-- Subtração
-- Multiplicação
-- Divisão com tratamento de divisão por zero
+The result will be displayed
+
+Coded Features
+Addition
+
+Subtraction
+
+Multiplication
+
+Division with zero division handlin
